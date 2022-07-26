@@ -1,0 +1,11 @@
+# for tmp
+
+tmp/
+*.*_old
+*.*_backup
+
+
+# for Thubs and DS_Store
+
+img/Thumbs.db
+.DS_Store
